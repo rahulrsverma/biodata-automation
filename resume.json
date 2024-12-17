@@ -1,0 +1,30 @@
+{
+  "name": "John Doe",
+  "title": "Software Developer",
+  "contact": {
+    "email": "john.doe@example.com",
+    "phone": "+1 (123) 456-7890",
+    "linkedin": "https://www.linkedin.com/in/johndoe"
+  },
+  "summary": "A highly skilled software developer with over 5 years of experience in building web applications, designing APIs, and solving complex problems.",
+  "skills": ["JavaScript", "React", "Node.js", "Python", "SQL", "HTML", "CSS"],
+  "experience": [
+    {
+      "company": "Tech Solutions Inc.",
+      "position": "Senior Developer",
+      "duration": "2022 - Present",
+      "description": "Lead a team of 5 developers to build scalable React and Node.js applications. Optimized performance and reduced API response time by 30%."
+    },
+    {
+      "company": "Innovatech LLC",
+      "position": "Full Stack Developer",
+      "duration": "2019 - 2022",
+      "description": "Developed and maintained web applications using React, Express.js, and MongoDB. Collaborated closely with designers and backend teams."
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Computer Science",
+    "institution": "XYZ University",
+    "year": "2015 - 2019"
+  }
+}
